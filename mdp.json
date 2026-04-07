@@ -1,19 +1,19 @@
 {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/drgould/multi-dev-proxy/releases/download/v1.0.1/mdp_windows_amd64.zip",
+            "url": "https://github.com/drgould/multi-dev-proxy/releases/download/v1.1.0/mdp_windows_amd64.zip",
             "bin": [
                 "mdp.exe"
             ],
-            "hash": "0d327d7a0838aa6153d14ba696631706a3232f056efef4749ae90817bbaf60cb"
+            "hash": "57a7c37bdbeb5d12bf403a0dc464c37d947c3ed216715a647dac39a989a68318"
         },
         "arm64": {
-            "url": "https://github.com/drgould/multi-dev-proxy/releases/download/v1.0.1/mdp_windows_arm64.zip",
+            "url": "https://github.com/drgould/multi-dev-proxy/releases/download/v1.1.0/mdp_windows_arm64.zip",
             "bin": [
                 "mdp.exe"
             ],
-            "hash": "0cbdf6fcd8421fc66741d6dc615a99229917885f7aee825be66b79664e37d9f4"
+            "hash": "ffda5f4c985631feb61e9e61845729734f6e6b1efaf960d27534cfb0c54c83e0"
         }
     },
     "homepage": "https://github.com/drgould/multi-dev-proxy",
