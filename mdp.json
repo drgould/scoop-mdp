@@ -6,14 +6,14 @@
             "bin": [
                 "mdp.exe"
             ],
-            "hash": "8763199c93149207725758d682f627da6cbeeb402235e2eb84afbd219991deb8"
+            "hash": "777066d2c4fbdbe52f7bbfc05549116b904b5aba78a76b0a493208f649782054"
         },
         "arm64": {
             "url": "https://github.com/drgould/multi-dev-proxy/releases/download/v1.1.1/mdp_windows_arm64.zip",
             "bin": [
                 "mdp.exe"
             ],
-            "hash": "6bebe850e99e4ca0e0f6578846f5c3f2162db81fb64fc5d049863b89032488c9"
+            "hash": "61b438a290ed66bd121a56c8ac86ef7400bf4e455ab0c8b25dcbdb3865025607"
         }
     },
     "homepage": "https://github.com/drgould/multi-dev-proxy",
